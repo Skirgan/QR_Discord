@@ -1,9 +1,9 @@
 # QR_Discord
 QR Code generation for Discord v 1.0
   
-Packages:  
+Библиотеки:  
   • Discord.py (https://pypi.org/project/discord.py/)  
   • QRcode (https://pypi.org/project/qrcode/)  
   
-To use my code, you need to create a bot here -https://discord.com/developers/applications  
-I use python v 3.7.1
+Для использования следует создать проект, а затем и бота на данном сайте -https://discord.com/developers/applications  
+Используется python v 3.7.1
