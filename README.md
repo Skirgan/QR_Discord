@@ -5,6 +5,5 @@ Packages:
   • Discord.py (https://pypi.org/project/discord.py/)  
   • QRcode (https://pypi.org/project/qrcode/)  
   
-To use my code, you need to create a bot [here](#https://discord.com/developers/applications)  
-
-python v 3.7.1
+To use my code, you need to create a bot here -https://discord.com/developers/applications  
+I use python v 3.7.1
