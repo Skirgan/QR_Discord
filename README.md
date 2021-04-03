@@ -5,4 +5,4 @@ Packages:
   • Discord.py (https://pypi.org/project/discord.py/)  
   • QRcode (https://pypi.org/project/qrcode/)  
   
-Thx for read this.
+
